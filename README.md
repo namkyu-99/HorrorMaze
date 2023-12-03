@@ -20,17 +20,17 @@
 
 ### 1. 맵
 > - 공포 컨셉의 미로 맵
-> <img src="https://github.com/namkyu-99/HorrorMaze/assets/128462226/ad0089c0-3a01-45bb-a289-cc8efc0ed0b7" width="540">
+> <img src="https://github.com/namkyu-99/HorrorMaze/assets/128462226/ad0089c0-3a01-45bb-a289-cc8efc0ed0b7" width="800">
 
 <br />
 
 ### 2. 애니메이션
 > - 대기, 걷기, 달리기, 공격 모션
-> <img src="https://github.com/namkyu-99/HorrorMaze/assets/128462226/265bdea6-5c2c-458a-b7c8-7a2e7db67230" width="540">
+> <img src="https://github.com/namkyu-99/HorrorMaze/assets/128462226/265bdea6-5c2c-458a-b7c8-7a2e7db67230" width="800">
 
 <br />
 
 ### 3. UI
 > - 체력, 시간, 미니맵, 인벤토리, 팝업
-> <img src="https://github.com/namkyu-99/HorrorMaze/assets/128462226/c02b25ef-dce7-4b54-b42a-9af7870d08bf" width="540">
-> <img src="https://github.com/namkyu-99/HorrorMaze/assets/128462226/9a14d016-5b2b-455a-96c0-62bd8b22b8c4" width="540">
+> <img src="https://github.com/namkyu-99/HorrorMaze/assets/128462226/c02b25ef-dce7-4b54-b42a-9af7870d08bf" width="800">
+> <img src="https://github.com/namkyu-99/HorrorMaze/assets/128462226/9a14d016-5b2b-455a-96c0-62bd8b22b8c4" width="800">
